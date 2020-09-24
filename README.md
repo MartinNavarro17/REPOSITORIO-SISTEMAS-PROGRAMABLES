@@ -1,5 +1,5 @@
 # Repositorio-SistemasProgamables
-Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con numero de control **17210609** 
+Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con numero de control **17210609** para la materia de **Sistemas programables** con el profesor **JAIME LEONARDO ENRIQUEZ ALVAREZ**.
 
 # Contenido 
 :hourglass: **Actividades de sesion en clase** :hourglass:  
