@@ -8,8 +8,11 @@ Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con nume
 :hourglass: [C1.1_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.1_MartinNavarro_JMM.md)  
 :hourglass: [C1.2_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.2_NavarroMartin_JMM.md)  
 :hourglass: [C1.3_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.3_NavarroMartin_JMM.md) 
-:hourglass: [C1.4_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.4_NavarroMartin_JMM.md) 
+
+:hourglass: [C1.4_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.4_NavarroMartin_JMM.md)
+
 :hourglass: [C1.5_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C1.5_NavarroMartin_JMM.md) 
+
 
 **Actividades en Equipo** 
 :hourglass: [A1.2_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/A1.2_NavarroMartin_JMM.md)
