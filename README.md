@@ -40,3 +40,5 @@ Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con nume
 :green_book: [A2.1_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/A2.1_NavarroRosas_JMM.md)
 
 :green_book: [A2.2_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/A2.2_NavarroMartin_JMM.md)
+
+:green_book: [A3.1_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/A3.1_NavarroMartin_JMM.md)
