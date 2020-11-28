@@ -31,6 +31,9 @@ Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con nume
 
 :hourglass: [C3.7_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C3.7_NavarroMartin_JMM.md)
 
+:hourglass: [C3.8_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C3.8_NavarroMartin_JMM.md)
+
+
 
  
 :green_book: **Actividades en Equipo**  :green_book:
