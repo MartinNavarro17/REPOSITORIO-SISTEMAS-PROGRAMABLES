@@ -35,6 +35,8 @@ Este repositorio esta hecho por el alumno **Navarro Rosas Martin Ivan** con nume
 
 :hourglass: [C4.1_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C4.1_NavarroMartin_JMM.md)
 
+:hourglass: [C4.2_NavarroMartin_JMM](https://github.com/MartinNavarro17/REPOSITORIO-SISTEMAS-PROGRAMABLES/blob/master/blog/C4.2_NavarroMartin_JMM.md)
+
 
 
  
